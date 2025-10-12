@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
- - [osTicket: Prerequisites and Installation](https://github.com/justindehart134/OSTickets-prereqs)
 - <b>Microsoft Azure</b>
   - [Deploying Active Directory](https://github.com/justindehart134/Deploying-Active-Directory)
   - [VPN Set Up and Usage](https://github.com/justindehart134/VPN-Setup-and-Usage)
