@@ -5,5 +5,5 @@
 - <b>Microsoft Azure</b>
   - [Deploying Active Directory](https://github.com/justindehart134/Deploying-Active-Directory)
   - [VPN Set Up and Usage](https://github.com/justindehart134/VPN-Setup-and-Usage)
-  - [Creating Users With PowerShell](https://github.com/justindehart134/Creating-Users-With-PowerShell)
+  - [Domain Naming System](https://github.com/justindehart134/Creating-Users-With-PowerShell)
 
