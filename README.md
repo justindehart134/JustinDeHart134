@@ -15,6 +15,6 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: [https://www.instagram.com/https://www.instagram.com/_swaggy_g4?igsh=ZXZhY2JsYTFkeXpr&utm_source=qr
+[instagram]: https://www.instagram.com/_swaggy_g4?igsh=ZXZhY2JsYTFkeXpr&utm_source=qr
 [linkedin]: https://linkedin.com/in/justin-dehart-41a18b396]
 
