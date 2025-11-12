@@ -7,3 +7,13 @@
   - [VPN Set Up and Usage](https://github.com/justindehart134/VPN-Setup-and-Usage)
   - [Domain Naming System](https://github.com/justindehart134/Creating-Users-With-PowerShell)
 
+
+<h2>🤳Connect with me:</h2>
+
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://twitter.com/Josh
+[instagram]: https://www.instagram.com/Josh
+[linkedin]: https://linkedin.com/in/justin-dehart-41a18b396
+
