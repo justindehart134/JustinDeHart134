@@ -7,6 +7,3 @@
   - [VPN Set Up and Usage](https://github.com/justindehart134/VPN-Setup-and-Usage)
   - [Domain Naming System](https://github.com/justindehart134/Creating-Users-With-PowerShell)
 
-<h2>🤳Connect with me:</h2>
-
-
